@@ -30,7 +30,7 @@
 .scene{
     color:mediumorchid;
     font-size: 15px;
-    background-color:aquamarine;
+   
 }
 .speech{
     color:black;
@@ -55,4 +55,23 @@
 .liela{
     color:darkblue;
     font-size: 15px;
+}
+.table,
+th,
+td {
+    color: black;
+    border: solid 2px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 15px;
+
+}
+
+tr:nth-child(odd) {
+    background-color:gainsboro
+}
+
+tr:nth-child(even) {
+    background-color:gold
 }
