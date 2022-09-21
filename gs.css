@@ -1,47 +1,58 @@
-.song{
-    color:gold;
-    font-size: 15px;
-}
-.chorus{
-    color:cornflowerblue;
+.SONG—PRIVATE {
+    color:black;
     font-size: 15px;
 }
 .liela{
     color:darkblue;
     font-size: 15px;
 }
-.fairies{
-    color:fuchsia;
-    font-size: 15px;
-}
-.fleta{
-    color: maroon;
-    font-size:15px;
-}
 .celia{
     color:gold;
     font-size: 15px;
 }
-.queen{
-    color:cornflowerblue;
-    font-size: 15px;
-}
-.willis{
-    color:orangered;
-    font-size: 15px;
-}
-.phyl{
-    color:crimson;
-    font-size: 15px;
-}
+
 .lord toll{
     color:indigo;
     font-size: 15px;
 
+}
+.name{
+    color:black;
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .lord mount{
 
     color:tomato;
     font-size: 15px;
 
+}
+.scene{
+    color:mediumorchid;
+    font-size: 15px;
+    background-color:aquamarine;
+}
+.speech{
+    color:black;
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.directions {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    background-color:aliceblue
+}
+.directions:hover {
+    background-color:aqua;
+    color:black;
+}
+.song{
+    color:black;
+    font-size: 15px;
+}
+.liela{
+    color:darkblue;
+    font-size: 15px;
 }
