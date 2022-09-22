@@ -89,3 +89,26 @@ tr:nth-child(even) {
     filter: blur(2px);
     text-shadow: 1.5px 4px;
 }
+.navbar-horizontal {
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: azure;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:darkslategrey;
+    background-color:grey;
+   
+    }
+    .navbar-horizontal a {
+    display:block;
+    padding: 15px;
+    color: aliceblue;
+    }
+
+    .navbar-horizontal a:hover {  
+    background-color:chartreuse;
+    color:white;
+    }
