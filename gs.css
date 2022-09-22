@@ -2,7 +2,7 @@
     color:black;
     font-size: 15px;
 }
-.liela{
+.leila{
     color:darkblue;
     font-size: 15px;
 }
@@ -11,7 +11,7 @@
     font-size: 15px;
 }
 
-.lord toll{
+.lordtoll{
     color:indigo;
     font-size: 15px;
 
@@ -21,7 +21,7 @@
     font-size: 15px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-.lord mount{
+.lordmount{
 
     color:tomato;
     font-size: 15px;
@@ -74,4 +74,18 @@ tr:nth-child(odd) {
 
 tr:nth-child(even) {
     background-color:gold
+}
+.lordmount:hover {
+    background-color:beige;
+    color:blue;
+    border: 2px solid;
+    filter: blur(1px);
+    text-shadow: 1.5px 3.5px;
+}
+.lordtoll:hover {
+    background-color: cornsilk;
+    color:azure;
+    border: 1.5px solid;
+    filter: blur(2px);
+    text-shadow: 1.5px 4px;
 }
